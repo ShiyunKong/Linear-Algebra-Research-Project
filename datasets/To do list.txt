@@ -1,0 +1,44 @@
+(1) Vector angles and movie ratings (recommender systems); cf. Classes 1, 14
+ TSVD calculation
+
+(2) Google PageRank type ranking; cf. Class 3 (and 8)
+ Visulize the matrix (done)
+
+(3) Eigenvector-based clustering; cf. Class 9 (and 8)
+ 3(c) Explain how Iris Dataset becomes an Laplacian Matrix: (done)
+
+Create a matrix that represents the pairwise similarities or distances between data points. This matrix is typically symmetric. You can use various distance metrics like Euclidean distance. Then, create an adjacency matrix represents the connections between data points. You can convert the similarity matrix to an adjacency matrix by applying a threshold of 2.0. The degree matrix is a diagonal matrix where each diagonal element represents the degree (number of connections) of a node construct from adjacency matrix. The Laplacian matrix is then computed as the difference between the degree matrix and the adjacency matrix.
+
+(4) Data mining: term{document matrix; cf. Class 11 (and 10, 13)
+ How Singular values rank things? (done)
+
+(5b) \Nerd alarm"! , Programming language competition; cf. Class 5
+List of computing cores:
+1.  Intel Core i7 - 12700H, the CPU inside School Provided Computer, but unlocked the Power Limit 1 (lower limit of power consumption in watts) to become 115 watts, which suppose to have only 45 watts.
+2. DRAM with DDR4 3200MHZ 64GB
+3. RTX 4070 Laptop GPU 4,608 cuda cores 
+4. GDDR6 8 GB VRAM
+
+ Name the methods with package used in each language:
+numpy - Python
+pytorch-gpu - Python
+math3.linear - Java
+LinearAlgebra - Julia
+
+ Calculate FLOPs and Average FLOPs for 4 of these methods: divide by operation time in seconds
+Task 1: 100 * (2n^3 - n^2) = 5.4 x 10^12 
+Task 2: 2 * m * n^2 = 5.4 x 10^10
+Task 3: log2(n) * 4/3 * 2 * n^3 = 8.3 x 10^11
+
+
+
+Device Usages:
+CPU usage is not modelled by 任务管理器 because it does not represent the actual usage, but GPU does.
+numpy - Python --> 31% CPU usages, uses the Intel's rubbish efficent cores, 100 watts+ power withdraw (first 6 core has hyperthreading) (CPU throttlling is a limiting factor)
+pytorch-gpu - Python --> Spikes of 50% usages, hard to measure instant power withdraw, too easy task for GPU
+math3.linear - Java --> very low of 1.4% CPU usages, 20.8 watts power withdraw (first 6 core has hyperthreading), not far from idle power withdraw (CPU throttlling is NOT a limiting factor)
+LinearAlgebra - Julia --> 5% CPU usages, only uses single thread  (first 6 core has hyperthreading), but average around 75 watts power withdraw (CPU throttlling is a limiting factor)
+
+
+(6b) Linear data fitting; cf. Class 12
+ Explain R-squared values to reason why not a good fit

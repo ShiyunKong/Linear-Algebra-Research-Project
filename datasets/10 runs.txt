@@ -1,0 +1,69 @@
+Mean Squared Error of Cubic fitting: 21.18254047157633
+R-squared of Cubic fitting: 0.7357608177872053
+Mean Squared Error of Quadratic fitting: 43.04006448734458
+R-squared of Quadratic fitting: 0.4631016304308493
+Mean Squared Error of Linear fitting: 43.068087991533794
+R-squared of Linear fitting: 0.46275205442793166
+
+Mean Squared Error of Cubic fitting: 24.208340663742966
+R-squared of Cubic fitting: 0.7177446749758423
+Mean Squared Error of Quadratic fitting: 44.56270604700078
+R-squared of Quadratic fitting: 0.4804244845211355
+Mean Squared Error of Linear fitting: 44.57371924447647
+R-squared of Linear fitting: 0.4802960769744873
+
+Mean Squared Error of Cubic fitting: 25.644566908973978
+R-squared of Cubic fitting: 0.7554406748700486
+Mean Squared Error of Quadratic fitting: 53.94425576918498
+R-squared of Quadratic fitting: 0.48556078828015614
+Mean Squared Error of Linear fitting: 55.29348460986332
+R-squared of Linear fitting: 0.47269387202871826
+
+Mean Squared Error of Cubic fitting: 19.27350985421985
+R-squared of Cubic fitting: 0.7724024720553363
+Mean Squared Error of Quadratic fitting: 44.25741643351591
+R-squared of Quadratic fitting: 0.4773718617068421
+Mean Squared Error of Linear fitting: 44.285165111422636
+R-squared of Linear fitting: 0.47704418239243207
+
+Mean Squared Error of Cubic fitting: 24.407463756247836
+R-squared of Cubic fitting: 0.763958972902701
+Mean Squared Error of Quadratic fitting: 51.28200489898933
+R-squared of Quadratic fitting: 0.5040591997246087
+Mean Squared Error of Linear fitting: 51.3475391939885
+R-squared of Linear fitting: 0.5034254271025866
+
+Mean Squared Error of Cubic fitting: 23.028058958709792
+R-squared of Cubic fitting: 0.7433285737905302
+Mean Squared Error of Quadratic fitting: 47.888179428562914
+R-squared of Quadratic fitting: 0.4662369357945704
+Mean Squared Error of Linear fitting: 47.89080491725669
+R-squared of Linear fitting: 0.46620767201994073
+
+Mean Squared Error of Cubic fitting: 19.036477850727017
+R-squared of Cubic fitting: 0.7592078385787415
+Mean Squared Error of Quadratic fitting: 40.08539278771084
+R-squared of Quadratic fitting: 0.49296038655573093
+Mean Squared Error of Linear fitting: 40.5904392922929
+R-squared of Linear fitting: 0.48657205986997687
+
+Mean Squared Error of Cubic fitting: 25.91116737796387
+R-squared of Cubic fitting: 0.7078187378261995
+Mean Squared Error of Quadratic fitting: 49.48919963363636
+R-squared of Quadratic fitting: 0.44194653208776713
+Mean Squared Error of Linear fitting: 49.838700068601
+R-squared of Linear fitting: 0.43800547158946224
+
+Mean Squared Error of Cubic fitting: 20.748302024776738
+R-squared of Cubic fitting: 0.77036684011592
+Mean Squared Error of Quadratic fitting: 44.6359936422417
+R-squared of Quadratic fitting: 0.5059882850946711
+Mean Squared Error of Linear fitting: 44.75584515435287
+R-squared of Linear fitting: 0.5046618208177337
+
+Mean Squared Error of Cubic fitting: 22.294337312726537
+R-squared of Cubic fitting: 0.7946979644458574
+Mean Squared Error of Quadratic fitting: 48.41070961353206
+R-squared of Quadratic fitting: 0.5541999258885735
+Mean Squared Error of Linear fitting: 48.59902745080592
+R-squared of Linear fitting: 0.5524657619714695
