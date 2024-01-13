@@ -1,6 +1,8 @@
 # Linear-Algebra-Research-Project
 Mainly jupyter doing data analytics and graph theory with linear algebra concepts, little java, little julia (not recorded)
 
+The final report is in the pdf form written in LaTeX LA_report_2024年1月9日.pdf
+
 Assignment 1: Recommander System: Truncated Singular Values Decompostion
 
 Assignment 2: Google PageRank: Solve Laplacian Matrix for Ax = x and Visulization 
